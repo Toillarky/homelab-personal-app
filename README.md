@@ -1,7 +1,7 @@
 # homelab-personal-app
 My application for my personal server. Dosen't work if you don't know me.
 
-Version 1.1 -> The files system and accounts.
+Version 1.1 [18/10/26] -> The files system and accounts. 
   - adding the dashboard
   - connection with your personal account
   - files system and privacy
