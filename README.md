@@ -7,3 +7,8 @@ Version 1.1 [18/10/26] -> The files system and accounts.
   - files system and privacy
   - use of RAM, CPU and Disk on dashboard
   - 500 Go of storage at this version.
+
+Version 1.2 [23/10/26] -> Major bugs fixs
+  - major bugs fixed
+  - add executable icons
+  - add icons in compilation
